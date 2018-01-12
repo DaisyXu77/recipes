@@ -3,4 +3,6 @@
 2. peanut butter
 3. jelly
 4. bananas
-5. bread
+5. apples
+6. pork
+7. bread
